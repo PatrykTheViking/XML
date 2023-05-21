@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Pojazdy>
+	<Kategoria Nazwa="Samochody">
+		<Pojazd>	
+			<Model>SUV</Model>
+			<Cena>40000</Cena>
+			<KrajPochodzenia>Niemcy</KrajPochodzenia>
+			<Specyfikacja>
+				<Nazwa>Audi</Nazwa>
+				<Miejsca>180</Miejsca>
+				<Kolor>Czarny</Kolor>
+				<Produkcja>2015</Produkcja>
+			</Specyfikacja>
+		</Pojazd>
+		<Pojazd>
+			<Model>Truck</Model>
+			<Cena>500000</Cena>
+			<KrajPochodzenia>Finlandia</KrajPochodzenia>
+			<Specyfikacja>
+			<Nazwa>RAM</Nazwa>
+			<Miejsca>3</Miejsca>
+			<Kolor>Czerwony</Kolor>
+			<Produkcja>2010</Produkcja>
+		</Specyfikacja>
+		</Pojazd>
+	</Kategoria>
+	<Kategoria Nazwa="Motory">
+		<Pojazd>
+			<Model>Chopper</Model>
+			<Cena>6000</Cena>
+			<KrajPochodzenia>Anglia</KrajPochodzenia>
+			<Specyfikacja>
+				<Nazwa>Harley Davidson</Nazwa>
+				<Miejsca>2</Miejsca>
+				<Kolor>Zielony</Kolor>
+				<Produkcja>2000</Produkcja>
+			</Specyfikacja>
+		</Pojazd>
+	</Kategoria>
+	<Kategoria Nazwa="Samoloty">
+		<Pojazd>
+			<Model>Pasażerski</Model>
+			<Cena>80000000</Cena>
+			<KrajPochodzenia>Niemcy</KrajPochodzenia>
+			<Specyfikacja>
+				<Nazwa>Airbus</Nazwa>
+				<Miejsca>180</Miejsca>
+				<Kolor>Biały</Kolor>
+				<Produkcja>2020</Produkcja>
+			</Specyfikacja>
+		</Pojazd>
+	</Kategoria>
+</Pojazdy>
